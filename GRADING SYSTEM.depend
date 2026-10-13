@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1791918232 source:c:\users\252158\desktop\world\hello world\grading system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
